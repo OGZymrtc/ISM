@@ -12,7 +12,6 @@ Issue Management Software Project
 -Eclipse <br>
 -PostgreSQL<br>
 -Swagger<br>
--JWT<br>
 -RESTFUL API<br>
 -H2Database(For Test On Postman)<br>
 
